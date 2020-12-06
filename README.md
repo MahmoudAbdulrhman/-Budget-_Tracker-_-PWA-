@@ -17,7 +17,7 @@ Budget Tracker is a progressive web application that allows users to track their
 
 To install the required dependencies, run `npm install`
 
-This package assumes there is a MongoDB server running on localhost:27017. If your server is running somewhere else, you can edit `server.js` to reflect that.
+This package assumes there is a MongoDB server running on localhost:3001. If your server is running somewhere else, you can edit `server.js` to reflect that.
 
 ## Usage
 
