@@ -1,14 +1,18 @@
 const FILES_TO_CACHE = [
     "/",
-    "/index.html",
-    "/assets/css/styles.css",
-    "/assets/js/index.js",
-    "/assets/js/db.js",
-    "/assets/images/icons/icon-192x192.png",
-    "/assets/images/icons/icon-512x512.png",
-    "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
-    "https://cdn.jsdelivr.net/npm/chart.js@2.8.0"
-  ];
+    "./index.html",
+    "./js/idb.js",
+    "./js/index.js",
+    "./css/styles.css",
+    "./icons/icon-72x72.png",
+    "./icons/icon-96x96.png",
+    "./icons/icon-128x128.png",
+    "./icons/icon-144x144.png",
+    "./icons/icon-152x152.png",
+    "./icons/icon-192x192.png",
+    "./icons/icon-384x384.png",
+    "./icons/icon-512x512.png",
+];
   
   const CACHE_NAME = "static-cache-v1";
   const DATA_CACHE_NAME = "data-cache-v1";
