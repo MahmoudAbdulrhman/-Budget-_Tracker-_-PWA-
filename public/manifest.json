@@ -43,8 +43,8 @@
             "sizes": "512x512"  
         }
     ],
-        "theme_color": "#317EFB",
-        "background_color": "#ffffff",
-        "start_url": "https://hidden-anchorage-26025.herokuapp.com/",
-        "display": "standalone"
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#317EFB"
 }
